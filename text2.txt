@@ -1,1 +1,3 @@
-this is  second text file now  it will ready to add on main branch
+this is  second text file now  it will ready to add on main branch   
+
+yeah buddy, now i'm changing some things in this file and i check how it will reflect on main branch
